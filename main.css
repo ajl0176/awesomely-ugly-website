@@ -1,1 +1,30 @@
 
+h1 {color: #E2482A	;
+  font-size: 75px;
+  text-align: center;
+}
+p {
+background-color: #AD7C3D;
+font-size: 30px;
+text-align: justify;
+}
+h2 {color: #00AB67;
+font-size: 45px;
+background-color: #FFDD10;
+text-align: center;
+}
+
+a {
+  font-size: 30px;
+}
+button {
+  background-color: #4CAF50;
+  border: solid;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  display: inline-block;
+  font-size: 16px;
+  float: center;
+
+}
